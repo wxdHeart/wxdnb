@@ -1,0 +1,1 @@
+include ':app', ':apps', ':tab', ':myappday01', ':mapactivity', ':moxtr', ':job3'

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:gravity="center"
+    android:background="#00a8f3">
+    <ImageView
+        android:id="@+id/myheadimg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher"/>
+    <TextView
+        android:id="@+id/myhead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:text="户外植物识别系统V1版"/>
+    <TextView
+        android:id="@+id/myheads"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="让你快速知道植物信息"/>
+</LinearLayout>

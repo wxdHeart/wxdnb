@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:text="1、你还有好多未完成的梦，你有什么理由停下脚步。
+
+2、没有人会让我输。除非我不想赢。
+
+3、学会忘记痛苦，为阳光记忆腾出空间。
+
+4、人生只有一次，不要总演配角。就算不是最耀眼的一个，但我有我的独特。
+
+5、阳光总是无私的，它总是照亮那些需要温暖的人。
+
+6、智者的梦再美，也不如愚人实干的脚印。
+
+7、一心向前，从不恋旧。
+
+8、追悔过去，不如把握现在，成就未来。
+
+9、其它星星都换了方位，北极星依然会在原地，当别人不了解你、不原谅你，甚至离开你，只要我守在原地，你就不会迷路。
+
+10、乐观地对待失败，成功就会向你招手。
+
+11、野心是对梦想最好的致敬。
+
+12、最怕的东西，最应该去突破。
+
+13、你不要失望，荡气回肠是为了最美的平凡。"
+        android:id="@+id/tv_a"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:id="@+id/tv_b"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="14、生命不在于我们得到过什么，而在于我们做过什么！
+
+15、每个不满意的现在，都有个不努力的曾经。
+
+16、有能力的人影响别人，没能力的人，受人影响。
+
+17、人生没有彩排，每天都是现场直播。
+
+18、每天醒来，面朝阳光，努力向上，相信日子会变得单纯而美好。
+
+19、对于最有能力的领航人风浪总是格外的汹涌。
+
+20、现代社会已不是大鱼吃小鱼的年代，而是快鱼吃慢鱼的年代。
+
+21、先变成更喜欢的自己，然后遇到一个不需要取悦的人。
+
+22、星星为什么看起来如此渺小，是因为它把自己放得太高。
+
+23、成功的门往往虚掩着，只要你勇敢去推，它就会豁然洞开。
+
+24、我想我会保持微笑，继续走完我未走完的路。
+
+25、时间不会因为你的固执而停滞，却会因为你的坚持而诚实。
+
+26、奋斗者在汗水汇集的江河里，将事业之舟驶到了理想的彼岸。
+
+27、勇士搏出惊涛骇流而不沉沦，懦夫在风平浪静也会溺水。
+
+28、彼此温暖，互不辜负。
+
+29、成功不是凭梦想和希望，而是凭努力和实践。
+
+30、也许我很痛苦很无助很孤独很想哭，但是我不能怒不能诉不能输不能哭。"
+        android:id="@+id/tv_c"
+        />
+
+</RelativeLayout>
